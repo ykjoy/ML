@@ -3,3 +3,4 @@
 
 python_basic1.ipynb  
 python_basic2.ipynb  
+python_vis.ipynb
