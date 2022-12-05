@@ -6,7 +6,7 @@ python_basic2.ipynb
 python_vis.ipynb   
 classification_dt_eval.ipynb   
 clustering.ipynb   
-associaton.ipynb 
+associaton.ipynb      
 ann.ipynb    
 
 ----------------------------------
