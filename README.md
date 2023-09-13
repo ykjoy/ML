@@ -13,4 +13,7 @@ recsys.ipynb
 text_mining1.ipynb    
 text_mining2.ipynb    
 
+BA2023_ch06.ipynb
+
+
 ----------------------------------
