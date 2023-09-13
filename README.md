@@ -1,5 +1,4 @@
-## 2022-2 IT와 비즈니스혁신 실습 자료
-
+## ML 실습 자료
 
 python_basic1.ipynb  
 python_basic2.ipynb  
@@ -8,5 +7,10 @@ classification_dt_eval.ipynb
 clustering.ipynb   
 associaton.ipynb      
 ann.ipynb    
+
+regression.ipynb    
+recsys.ipynb    
+text_mining1.ipynb    
+text_mining2.ipynb    
 
 ----------------------------------
