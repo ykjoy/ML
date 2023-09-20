@@ -1,19 +1,18 @@
-## ML 실습 자료
-
-python_basic1.ipynb  
-python_basic2.ipynb  
+## BA2023-2
 python_vis.ipynb   
-classification_dt_eval.ipynb   
-clustering.ipynb   
-associaton.ipynb      
-ann.ipynb    
-
 regression.ipynb    
-recsys.ipynb    
-text_mining1.ipynb    
-text_mining2.ipynb    
+classification_dt_eval.ipynb   
+ann_dnn.ipynb    
 
+## ML 교재  
 BA2023-ch06.ipynb
 
-
-----------------------------------
+## ML 실습 자료 
+python_basic1.ipynb  
+python_basic2.ipynb  
+clustering.ipynb   
+associaton.ipynb      
+ann.ipynb
+text_mining1.ipynb    
+text_mining2.ipynb    
+recsys.ipynb    
