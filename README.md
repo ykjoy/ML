@@ -6,7 +6,7 @@ W3 classification_dt_eval.ipynb
 W5 (dunnhumbly_dt.ipynb)
 W5 ann_dnn.ipynb    
 
-## ML 실습 자료 
+## 기타 ML 실습 
 python_basic1.ipynb  
 python_basic2.ipynb  
 clustering.ipynb   
