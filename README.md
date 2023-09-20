@@ -12,7 +12,6 @@ python_basic1.ipynb
 python_basic2.ipynb  
 clustering.ipynb   
 associaton.ipynb      
-ann.ipynb
 text_mining1.ipynb    
 text_mining2.ipynb    
 recsys.ipynb    
