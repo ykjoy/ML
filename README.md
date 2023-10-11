@@ -5,6 +5,7 @@ W3 dunnhumby_reg.ipynb
 W3 classification_dt_eval.ipynb     
 W5 dunnhumby_classification.ipynb  
 W5 ann_dnn.ipynb    
+W6 cnn_rnn.ipynb
 
 ## 기타 ML 실습 
 python_basic1.ipynb  
